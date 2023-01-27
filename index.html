@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        table {
+            table-layout: fixed;
+            border-collapse: collapse;
+            border: 4px double rgb(0, 0, 0);
+        }
+
+        th,
+        td {
+            width: 270px;
+            height: 70px;
+            border: 4px double rgb(0, 0, 0);
+        }
+    </style>
+</head>
+
+<body>
+    <header></header>
+    <main>
+        <table style="text-align: center;">
+            <tr>
+                <td colspan="3" style="background-color: rgb(57, 67, 255);">MY FIRST TABLE</td>
+            </tr>
+            <tr>
+                <td style="background-color: rgb(57, 67, 255);">
+                    <b>1st cell</b>
+                </td>
+                <td style="background-color: rgb(57, 67, 255);"><b>2nd cell</b></td>
+                <td rowspan="3" style="background-color: rgb(255, 250, 102);"><b>6 cells merged together</b></td>
+            </tr>
+            <tr>
+                <td colspan="2" style="background-color: rgb(255, 250, 102);"><b>2 cells merged into one</b></td>
+            </tr>
+            <tr>
+                <td style="background-color: rgb(255, 250, 102);"><b>1st cell<br>3rd row</b></td>
+                <td style="background-color: rgb(255, 250, 102);"><b>2nd cell<br>3rd row</b></td>
+            </tr>
+            <tr>
+                <td colspan="3" style="background-color: rgb(255, 250, 102);"><b>Do you like tables</b></td>
+            </tr>
+        </table>
+    </main>
+    <footer>
+    </footer>
+
+</body>
+
+</html>
