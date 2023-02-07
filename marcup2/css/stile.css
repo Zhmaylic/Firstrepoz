@@ -6,9 +6,7 @@ img {
     width: 130px;
     height: 130px;
     align-items: center;
-
     background: #C4C4C4;
-
 }
 
 .card {
@@ -21,7 +19,6 @@ div {
     padding: 0 35px 96px 35px;
     width: 200px;
     height: 226px;
-
 }
 
 h4 {
@@ -30,7 +27,6 @@ h4 {
     text-align: center;
     margin-left: auto;
     margin-right: auto;
-
 }
 
 p {
