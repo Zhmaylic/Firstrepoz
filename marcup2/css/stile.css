@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+}
+
+img {
+    width: 130px;
+    height: 130px;
+    align-items: center;
+
+    background: #C4C4C4;
+
+}
+
+.card {
+    display: inline-block;
+    vertical-align: top;
+}
+
+div {
+    margin: 15px 15px;
+    padding: 0 35px 96px 35px;
+    width: 200px;
+    height: 226px;
+
+}
+
+h4 {
+    height: 22px;
+    margin: 5px 0 0 0;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+p {
+    text-align: center;
+    height: 36px;
+}
