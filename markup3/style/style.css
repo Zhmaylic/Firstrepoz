@@ -1,0 +1,133 @@
+.conteiner {
+    width: 1920px;
+    height: 700px;
+    vertical-align: top;
+}
+
+h1 {
+    font: rgb(0, 0, 0) 48px/1.2 500;
+    font-family: 'Roboto', sans-serif, Arial, Helvetica;
+}
+
+.button1 {
+    margin: 20px 0 80px 425px;
+    background-color: #34547a;
+    border: none;
+    color: #fcfdfe;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif, Arial, Helvetica, Sans-serif;
+}
+
+.navi {
+    margin: -15px 32px 200px 308px;
+    padding: 79px 30px;
+}
+
+.op li {
+    margin: 32px;
+    padding: 0 20px;
+    display: inline;
+    font: rgb(0, 0, 0) 16px/1.2 400;
+    font-family: 'Roboto', sans-serif, Arial, Helvetica;
+}
+
+a {
+    text-decoration: none;
+}
+
+.conteiner2 {
+    width: 1920px;
+    height: 250px;
+    background-color: #34547A;
+}
+
+.conteiner22 {
+    padding: 72px 20px 15px 340px;
+}
+
+.icon-numbers__item {
+    margin-left: 28px;
+}
+
+.complex_list li {
+    margin: 32 30 32 50px;
+    padding: 15px -1px 15px 80px;
+    display: inline;
+    Width: 141px;
+    Height: 50px;
+    font-size: 60px;
+}
+
+.conti {
+    text-align: center;
+    padding-bottom: 60px;
+    width: 1920px;
+    font: 32px/1/2 500;
+    font-family: 'Roboto', sans-serif, Arial, Helvetica;
+}
+
+.text {
+    margin: 20 20 20 20px !important;
+    padding: 20 20 20 20px !important;
+}
+
+.conteiner3 {
+    width: 1920px;
+    height: 1004px;
+    background-color: #EEEFF1;
+    text-align: center;
+    margin-top: -20px;
+    margin-bottom: -18px;
+    font-family: 'Roboto', sans-serif, Arial, Helvetica;
+}
+
+.h1 {
+    padding: 0 60px 0 425px;
+    text-align: left;
+    margin: 40px 0;
+}
+
+.end {
+    padding: 0 0 100px 0;
+}
+
+.par {
+    padding: 0 60px 0 425px;
+    text-align: left;
+    margin: 40px 0;
+    font-family: 'Roboto', sans-serif, Arial, Helvetica, Sans-serif;
+}
+
+
+
+.section {
+    text-align: center;
+}
+
+h2 {
+    padding: 50px;
+}
+
+.ender {
+    width: 1920px;
+    height: 150px;
+    padding: -30px 40px 30px 20;
+    background-color: #34547A;
+    text-align: left;
+    color: #EEEFF1;
+    font-family: 'Roboto', sans-serif, Arial, Helvetica, Sans-serif;
+}
+
+.r {
+    margin: 20px 20px;
+    padding: 40px 0px 10px 385px;
+}
+
+.r1 {
+    margin: 20px 20px;
+    padding: 0px 0px 10px 385px;
+}
