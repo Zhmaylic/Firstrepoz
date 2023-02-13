@@ -1,0 +1,194 @@
+.section {
+    width: 1100px;
+    height: 800px;
+    margin: 55px auto;
+    background: #c4c4c4;
+    padding-top: 10px;
+}
+
+.sect1,
+.sect2,
+.sect3 {
+    width: 1000px;
+    background: #e6e6e6;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-bottom: 25px;
+    margin-right: 50px;
+}
+
+#blok1 {
+    width: 200px;
+    height: 200px;
+    background: #FC8F8F;
+    display: inline-block;
+    float: right;
+}
+
+#blokk {
+    width: 200px;
+    height: 75px;
+    margin: 63px 0 62px 0;
+}
+
+#blokkk {
+    width: 200px;
+    height: 75px;
+    align: center;
+    margin: 63px 0 62px 0;
+}
+
+#blok {
+    width: 200px;
+    height: 200px;
+    background: #FC8F8F;
+    display: inline-block;
+}
+
+#q {
+    width: 200px;
+    height: 200px;
+    background: #FC8F8F;
+    display: inline-block;
+    margin: 0 15px 0 0;
+}
+
+#qa {
+    width: 200px;
+    height: 75px;
+    align: center;
+    margin: 63px 0 62px 0;
+}
+
+#ed,
+#rf,
+#tg,
+#ws {
+    float: right;
+}
+
+#w,
+#e,
+#r,
+#t {
+    width: 100px;
+    height: 100px;
+    background: #FC8F8F;
+    display: inline-block;
+    margin: 0 0 0 10px;
+}
+
+#ws,
+#ed,
+#rf,
+#tg {
+    width: 100px;
+    height: 37.5px;
+    align: center;
+    margin: 31px 0 31.5px 0;
+}
+
+#a {
+    width: 200px;
+    height: 200px;
+    background: #FC8F8F;
+    display: inline-block;
+    margin: 0 15px 0 0;
+}
+
+#s {
+    width: 200px;
+    height: 200px;
+    background: #FC8F8F;
+    display: inline-block;
+    margin: 0 155px 0 0;
+}
+
+#d,
+#f {
+    width: 200px;
+    height: 200px;
+    background: #FC8F8F;
+    display: inline-block;
+    float: right;
+    margin: 0 0 0 15px;
+
+}
+
+#az,
+#sx,
+#dc,
+#fv {
+    width: 200px;
+    height: 75px;
+    align: center;
+    margin: 63px 0 62px 0;
+}
+
+.text {
+    font-family: 'robotobold', Arial, Helvetica, sans-serif;
+    font-size: 64px;
+}
+
+.text1 {
+    font-family: 'robotobold', Arial, Helvetica, sans-serif;
+    font-size: 36px;
+    margin: 0 auto;
+}
+
+#finish,
+#finish1,
+#finish10,
+#finish11,
+#finish12,
+#finish13,
+#finish2,
+#finish3,
+#finish4,
+#finish5,
+#finish6 {
+    text-align: center;
+}
+
+#finish4,
+#finish5,
+#finish6 {
+    text-align: center;
+    margin: -2px 0 0 0;
+}
+
+.sect22 {
+    float: right;
+}
+
+.sect3 {
+    display: flex;
+    flex-flow: wrap;
+}
+
+style #a,
+style #s,
+style #d,
+style #f {
+    width: 100%;
+}
+
+#a {
+    order: 1;
+}
+
+#s {
+    order: 2;
+}
+
+#d {
+    order: 3;
+}
+
+#f {
+    order: 4;
+}
+
+#s {
+    float: left;
+}
