@@ -1,0 +1,92 @@
+ul,
+li,
+a {
+    box-sizing: border-box;
+}
+
+
+body {
+    font-family: 'Amatic SC', cursive, Arial, Helvetica, sans-serif;
+}
+
+.div {
+    display: block;
+    background: rgb(125, 179, 125);
+    margin: 5px 5px 5px 5px;
+    padding: 5px 5px 5px 5px;
+    border: 2px solid rgb(4, 54, 34);
+}
+
+img {
+    border: 5px double rgb(4, 54, 34);
+    border-radius: 70px;
+    padding: 20px;
+    margin: 0px 0px -41px 0px;
+}
+
+.img {
+    display: inline;
+}
+
+.nav {
+    position: relative;
+    font-size: 30px;
+    margin: 0px 10px 0px 100px;
+}
+
+.li {
+    position: relative;
+}
+
+.li>ul {
+    position: absolute;
+}
+
+.nav ul {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    display: none;
+    margin: 0;
+    padding: 0;
+}
+
+.nav li {
+    margin: 0 auto;
+    position: relative;
+}
+
+.nav>li {
+    padding-bottom: 0px;
+    text-align: center;
+}
+
+.nav>.li>ul {
+    top: 0%;
+    left: 100%;
+}
+
+a {
+    text-decoration: none;
+}
+
+.nav li:hover>ul {
+    display: block;
+}
+
+.sub2 {
+    left: 100% !important;
+    top: 0 !important;
+}
+
+li {
+    background: rgb(125, 179, 125);
+    border: 2px solid rgb(4, 54, 34);
+    border-radius: 10px;
+    width: 100px;
+    display: inline-block;
+}
+
+li:hover li {
+    background-color: rgb(66, 150, 22);
+}
